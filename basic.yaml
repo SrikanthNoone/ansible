@@ -1,29 +1,29 @@
 # Sample YAML data
-person:
-  name: John Doe
-  age: 30
-  occupation: Developer
-  hobbies:
-    - Reading
-    - Traveling
-    - Playing guitar
-address:
-  street: 123 Main St
-  city: Anytown
-  state: Somestate
-  zip_code: '12345'
-fruits_1:
-  - name: Apple
-    colour: Red
-    season: winter
-  - name: Mango
-    colour: Yellow
-    season: summer
-fruits_2:
-  - name: Apple
-    colour: Red
-    season: winter
-  - name: Mango
-    colour: Yellow
-    season: summer
-            
+- person:
+    name: John Doe
+    age: 30
+    occupation: Developer
+    hobbies:
+      - Reading
+      - Traveling
+      - Playing guitar
+  address:
+    street: 123 Main St
+    city: Anytown
+    state: Somestate
+    zip_code: '12345'
+  fruits_1:
+    - name: Apple
+      colour: Red
+      season: winter
+    - name: Mango
+      colour: Yellow
+      season: summer
+  fruits_2:
+    - name: Apple
+      colour: Red
+      season: winter
+    - name: Mango
+      colour: Yellow
+      season: summer
+              
